@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579508842332",
+    "project_id": "incremental-game-with-firebase",
+    "storage_bucket": "incremental-game-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579508842332:android:f5ac7b5bdd3a0042e65b99",
+        "android_client_info": {
+          "package_name": "com.hoetato.Incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579508842332-uo55nvi61tirc7rr1af15mrjo5n2la80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtb9llMYphTd93KAmRsLbeB5xh6cKSl9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579508842332-uo55nvi61tirc7rr1af15mrjo5n2la80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
